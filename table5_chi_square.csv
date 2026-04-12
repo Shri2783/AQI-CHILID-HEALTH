@@ -1,0 +1,5 @@
+Health_Var,Chi2,df,p_value,Cramer_V,Significant
+ARI_high,0.0,1,1.0,0.0,ns
+Stunting_high,0.889,1,0.3458,0.222,ns
+Anaemia_high,0.889,1,0.3458,0.222,ns
+Underweight_high,0.889,1,0.3458,0.222,ns

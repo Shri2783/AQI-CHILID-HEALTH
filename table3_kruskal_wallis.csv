@@ -1,0 +1,5 @@
+Health_Var,H_stat,p_value,Significant
+ARI_pct,0.495,0.7807,ns
+Stunting_pct,2.179,0.3363,ns
+Underweight_pct,2.56,0.2781,ns
+Anaemia_pct,5.89,0.0526,ns
